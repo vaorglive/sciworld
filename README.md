@@ -1,2 +1,3 @@
 # sciworld
-a world of science and technology
+sciworld is a world of science for you to learn.
+you can learn anything from here
